@@ -11,3 +11,6 @@
 #4. npm start
 
 #app will be accessible at localhost:3000
+
+
+#keep all the interface related files in frontend folder and remaining datasets and python files in backend folder before running the project
